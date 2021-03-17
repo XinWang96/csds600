@@ -46,6 +46,8 @@ Poly = []
 for i,(train_index, test_index) in enumerate(kf.split(x_train,y_train)):
     X_train_val=x_train[train_index]
     y_train_val = y_train[train_index]
+    X_test_val=x_test[test_index]
+    y_test_val=y_test[test_index]
 
 
     svm = SVC(kernel='linear')
