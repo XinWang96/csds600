@@ -1,3 +1,2 @@
 # csds600
-
-CyberAI homework
+CyberAI
