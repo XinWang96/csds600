@@ -1,2 +1,2 @@
-# csds600-CyberAI
+# csds600
 CyberAI
